@@ -1,0 +1,12 @@
+[
+  {"id": "1", "name": "Alice Johnson", "description": "Project manager with 5 years of experience", "category": "Management"},
+  {"id": "2", "name": "Michael Smith", "description": "Senior software engineer specializing in backend", "category": "Engineering"},
+  {"id": "3", "name": "Emma Davis", "description": "Graphic designer focused on branding and UI/UX", "category": "Design"},
+  {"id": "4", "name": "David Lee", "description": "Data analyst skilled in Python and SQL", "category": "Data Science"},
+  {"id": "5", "name": "Sophia Martinez", "description": "Marketing specialist with expertise in social media campaigns", "category": "Marketing"},
+  {"id": "6", "name": "James Wilson", "description": "HR coordinator managing recruitment and onboarding", "category": "Human Resources"},
+  {"id": "7", "name": "Olivia Brown", "description": "Content writer creating engaging articles and blogs", "category": "Content Creation"},
+  {"id": "8", "name": "Liam Garcia", "description": "Front-end developer experienced with React and Vue.js", "category": "Engineering"},
+  {"id": "9", "name": "Isabella Moore", "description": "Financial advisor helping clients manage portfolios", "category": "Finance"},
+  {"id": "10", "name": "Ethan Taylor", "description": "Customer support specialist with strong communication skills", "category": "Support"}
+]
